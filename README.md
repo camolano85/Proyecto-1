@@ -11,14 +11,6 @@ El sitio web está desarrollado con HTML semántico e incluye las siguientes sec
 - **Detalle de Imagen**: Página dedicada a ampliar información sobre una imagen seleccionada (no incluida en este fragmento).
 - **Sobre Nosotros**: Información detallada de la empresa, referencias corporativas y contenido relacionado.
 
-## 📁 Estructura del Proyecto
-
-.
-├── index.html
-├── galeria.html
-├── detalle.html
-├── nosotros.html
-└── README.md
 
 Este repositorio contiene el archivo `nosotros.html` con contenido estructurado de la empresa.
 
@@ -27,15 +19,6 @@ Este repositorio contiene el archivo `nosotros.html` con contenido estructurado 
 - HTML5
 - Etiquetas semánticas (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`)
 
-## 🏗 Contenido del Archivo `nosotros.html`
-
-- **Encabezado (`<header>`)**: Título del sitio y descripción corta.
-- **Navegación (`<nav>`)**: Menú con enlaces a las diferentes páginas.
-- **Contenido Principal (`<main>`)**:
-  - `section`: Información general sobre la empresa.
-  - `article`: Referencias y experiencia empresarial.
-  - `aside`: Contenido adicional o relacionado.
-- **Pie de Página (`<footer>`)**: Derechos reservados.
 
 ## ✅ Estado
 
